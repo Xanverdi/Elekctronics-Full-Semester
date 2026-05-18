@@ -64,7 +64,7 @@ Contact: <https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askerali
 | Resource | Link |
 |----------|------|
 | 📄 Academia.edu publication | https://www.academia.edu/167308147/Smart_Solar_Aware_Automatic_Irrigation_Pump_Controller_Khanverdi_Chalabiyev_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_?source=swp_share |
-| :yt: Video explanation (5+ min) | https://youtu.be/aH_fLAwDhcQ |
+| [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube&logoColor=white)] Video explanation (5+ min) | https://youtu.be/aH_fLAwDhcQ |
 | 🛠️ Tinkercad simulation | https://www.tinkercad.com/things/a6c6zuvMMN1/editel |
 
 ---
